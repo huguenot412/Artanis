@@ -5,9 +5,5 @@ module.exports.addNote = function () {
     return 'New note';
 };
 
-module.exports.add = function (a, b) {
-    return a + b;
-};
-
 
 
